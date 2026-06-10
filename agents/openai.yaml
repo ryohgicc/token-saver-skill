@@ -1,0 +1,4 @@
+interface:
+  display_name: "Token Saver"
+  short_description: "Keep Codex context lean on large tasks"
+  default_prompt: "Use $token-saver to inspect this large repo or data task with compact summaries before opening raw inputs."
